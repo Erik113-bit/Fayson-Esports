@@ -1,0 +1,19 @@
+button {
+    background-color: orange;
+    color: black;
+    border: none;
+    padding: 12px 25px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
